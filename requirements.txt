@@ -1,0 +1,20 @@
+pandas
+numpy
+
+pyreadr
+
+matplotlib
+seaborn
+
+scipy
+geopandas
+folium
+
+jupyter
+ipykernel
+
+python-dateutil
+
+# Dashboard and interactive visualization  
+streamlit
+plotly
